@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\bin\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.exe.config
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\bin\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.exe
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\bin\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.pdb
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\obj\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\obj\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\obj\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.exe
+C:\Users\Laz\source\repos\Recursive yapı ile 2 boyutlu dizilerde toplama\Recursive yapı ile 2 boyutlu dizilerde toplama\obj\Debug\Recursive yapı ile 2 boyutlu dizilerde toplama.pdb

@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace YapsıalProgramlamaKalıtımDersi
+{
+     public class İnsan
+    {
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+        public DateTime dogumTarihi { get; set; }
+        public string  DogumYeri { get; set; }
+        public string cinsiyet { get; set; }
+
+    }
+}

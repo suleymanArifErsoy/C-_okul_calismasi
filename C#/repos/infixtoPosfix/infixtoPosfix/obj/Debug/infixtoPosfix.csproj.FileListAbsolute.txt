@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\bin\Debug\infixtoPosfix.exe.config
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\bin\Debug\infixtoPosfix.exe
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\bin\Debug\infixtoPosfix.pdb
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\obj\Debug\infixtoPosfix.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\obj\Debug\infixtoPosfix.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\obj\Debug\infixtoPosfix.exe
+C:\Users\Laz\source\repos\infixtoPosfix\infixtoPosfix\obj\Debug\infixtoPosfix.pdb

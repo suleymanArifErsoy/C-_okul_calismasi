@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\Laz\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\Laz\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\Laz\source\repos\Metotlar\Metotlar\obj\Debug\Metotödev1.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\Metotlar\Metotlar\obj\Debug\Metotödev1.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\Laz\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

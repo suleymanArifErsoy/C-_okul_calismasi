@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\bin\Debug\ClasslaEvCalısması.exe.config
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\bin\Debug\ClasslaEvCalısması.exe
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\bin\Debug\ClasslaEvCalısması.pdb
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\obj\Debug\ClasslaEvCalısması.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\obj\Debug\ClasslaEvCalısması.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\obj\Debug\ClasslaEvCalısması.exe
+C:\Users\Laz\source\repos\ClasslaEvCalısması\ClasslaEvCalısması\obj\Debug\ClasslaEvCalısması.pdb

@@ -1,0 +1,10 @@
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\bin\Debug\OtoparkUygulama.exe.config
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\bin\Debug\OtoparkUygulama.exe
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\bin\Debug\OtoparkUygulama.pdb
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.Form1.resources
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.Properties.Resources.resources
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.csproj.GenerateResource.cache
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.exe
+C:\Users\Laz\source\repos\OtoparkUygulama\OtoparkUygulama\obj\Debug\OtoparkUygulama.pdb

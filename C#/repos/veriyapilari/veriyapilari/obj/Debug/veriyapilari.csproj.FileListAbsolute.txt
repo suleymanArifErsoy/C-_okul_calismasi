@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.exe.config
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.exe
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\bin\Debug\veriyapilari.pdb
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.exe
+C:\Users\Laz\source\repos\veriyapilari\veriyapilari\obj\Debug\veriyapilari.pdb

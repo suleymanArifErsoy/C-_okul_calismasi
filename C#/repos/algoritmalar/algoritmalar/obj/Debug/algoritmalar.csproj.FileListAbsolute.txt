@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\bin\Debug\algoritmalar.exe.config
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\bin\Debug\algoritmalar.exe
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\bin\Debug\algoritmalar.pdb
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\obj\Debug\algoritmalar.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\obj\Debug\algoritmalar.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\obj\Debug\algoritmalar.exe
+C:\Users\Laz\source\repos\algoritmalar\algoritmalar\obj\Debug\algoritmalar.pdb

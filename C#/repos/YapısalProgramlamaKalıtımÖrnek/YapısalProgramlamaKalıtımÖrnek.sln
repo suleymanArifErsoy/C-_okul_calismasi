@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YapısalProgramlamaKalıtımÖrnek", "YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek.csproj", "{6F8A7D68-4081-42DB-86F3-1D019A55365E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8A7D68-4081-42DB-86F3-1D019A55365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8A7D68-4081-42DB-86F3-1D019A55365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8A7D68-4081-42DB-86F3-1D019A55365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8A7D68-4081-42DB-86F3-1D019A55365E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CA109F-18E7-4593-AB86-52781F3E25A0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\bin\Debug\veri yapilari vize sorusu.exe.config
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\bin\Debug\veri yapilari vize sorusu.exe
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\bin\Debug\veri yapilari vize sorusu.pdb
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\obj\Debug\veri yapilari vize sorusu.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\obj\Debug\veri yapilari vize sorusu.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\obj\Debug\veri yapilari vize sorusu.exe
+C:\Users\Laz\source\repos\veri yapilari vize sorusu\veri yapilari vize sorusu\obj\Debug\veri yapilari vize sorusu.pdb

@@ -1,0 +1,10 @@
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\bin\Debug\ExceptionUygulamadersi1.exe.config
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\bin\Debug\ExceptionUygulamadersi1.exe
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\bin\Debug\ExceptionUygulamadersi1.pdb
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.Form1.resources
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.Properties.Resources.resources
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.csproj.GenerateResource.cache
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.exe
+C:\Users\Laz\source\repos\ExceptionUygulamadersi1\ExceptionUygulamadersi1\obj\Debug\ExceptionUygulamadersi1.pdb

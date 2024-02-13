@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\bin\Debug\YapısalProgramlamaSonDers.exe.config
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\bin\Debug\YapısalProgramlamaSonDers.exe
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\bin\Debug\YapısalProgramlamaSonDers.pdb
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\obj\Debug\YapısalProgramlamaSonDers.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\obj\Debug\YapısalProgramlamaSonDers.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\obj\Debug\YapısalProgramlamaSonDers.exe
+C:\Users\Laz\source\repos\YapısalProgramlamaSonDers\YapısalProgramlamaSonDers\obj\Debug\YapısalProgramlamaSonDers.pdb

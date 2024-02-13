@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\obj\Debug\Vize_Sorusu.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\obj\Debug\Vize_Sorusu.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\bin\Debug\Vize_Sorusu.exe.config
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\bin\Debug\Vize_Sorusu.exe
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\bin\Debug\Vize_Sorusu.pdb
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\obj\Debug\Vize_Sorusu.exe
+C:\Users\Laz\source\repos\Vize_Sorusu\Vize_Sorusu\obj\Debug\Vize_Sorusu.pdb

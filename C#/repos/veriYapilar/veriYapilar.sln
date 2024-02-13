@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veriYapilar", "veriYapilar\veriYapilar.csproj", "{F310C19E-E7DD-4A01-9425-13007E52840A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F310C19E-E7DD-4A01-9425-13007E52840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F310C19E-E7DD-4A01-9425-13007E52840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F310C19E-E7DD-4A01-9425-13007E52840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F310C19E-E7DD-4A01-9425-13007E52840A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8205B0EA-A522-4493-ADD9-B1714C4D60F4}
+	EndGlobalSection
+EndGlobal

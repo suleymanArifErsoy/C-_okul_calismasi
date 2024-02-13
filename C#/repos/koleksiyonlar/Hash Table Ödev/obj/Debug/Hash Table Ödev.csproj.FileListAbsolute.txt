@@ -1,0 +1,6 @@
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\bin\Debug\Hash Table Ödev.exe.config
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\bin\Debug\Hash Table Ödev.exe
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\bin\Debug\Hash Table Ödev.pdb
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\obj\Debug\Hash Table Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\obj\Debug\Hash Table Ödev.exe
+C:\Users\Laz\source\repos\koleksiyonlar\Hash Table Ödev\obj\Debug\Hash Table Ödev.pdb

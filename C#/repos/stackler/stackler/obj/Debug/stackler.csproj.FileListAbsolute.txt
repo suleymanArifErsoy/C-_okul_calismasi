@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\stackler\stackler\bin\Debug\stackler.exe.config
+C:\Users\Laz\source\repos\stackler\stackler\bin\Debug\stackler.exe
+C:\Users\Laz\source\repos\stackler\stackler\bin\Debug\stackler.pdb
+C:\Users\Laz\source\repos\stackler\stackler\obj\Debug\stackler.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\stackler\stackler\obj\Debug\stackler.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\stackler\stackler\obj\Debug\stackler.exe
+C:\Users\Laz\source\repos\stackler\stackler\obj\Debug\stackler.pdb

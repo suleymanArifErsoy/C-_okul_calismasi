@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\bin\Debug\FinalSinavi.exe.config
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\bin\Debug\FinalSinavi.exe
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\bin\Debug\FinalSinavi.pdb
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\obj\Debug\FinalSinavi.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\obj\Debug\FinalSinavi.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\obj\Debug\FinalSinavi.exe
+C:\Users\Laz\source\repos\FinalSinavi\FinalSinavi\obj\Debug\FinalSinavi.pdb

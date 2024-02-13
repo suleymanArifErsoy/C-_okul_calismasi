@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\bin\Debug\veriYapilariDers2 listeyi tersten yazdirma.exe.config
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\bin\Debug\veriYapilariDers2 listeyi tersten yazdirma.exe
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\bin\Debug\veriYapilariDers2 listeyi tersten yazdirma.pdb
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\obj\Debug\veriYapilariDers2 listeyi tersten yazdirma.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\obj\Debug\veriYapilariDers2 listeyi tersten yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\obj\Debug\veriYapilariDers2 listeyi tersten yazdirma.exe
+C:\Users\Laz\source\repos\veriYapilariDers2 listeyi tersten yazdirma\veriYapilariDers2 listeyi tersten yazdirma\obj\Debug\veriYapilariDers2 listeyi tersten yazdirma.pdb

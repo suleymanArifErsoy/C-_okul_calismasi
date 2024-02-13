@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\bin\Debug\Alistirmalar.exe.config
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\bin\Debug\Alistirmalar.exe
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\bin\Debug\Alistirmalar.pdb
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.exe
+C:\Users\Laz\source\repos\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\bin\Debug\DersCalisma.exe.config
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\bin\Debug\DersCalisma.exe
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\bin\Debug\DersCalisma.pdb
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\obj\Debug\DersCalisma.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\obj\Debug\DersCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\obj\Debug\DersCalisma.exe
+C:\Users\Laz\source\repos\DersCalisma\DersCalisma\obj\Debug\DersCalisma.pdb

@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\bin\Debug\AlgoritmalarVizeOncesiCalisma.exe.config
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\bin\Debug\AlgoritmalarVizeOncesiCalisma.exe
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\bin\Debug\AlgoritmalarVizeOncesiCalisma.pdb
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\obj\Debug\AlgoritmalarVizeOncesiCalisma.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\obj\Debug\AlgoritmalarVizeOncesiCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\obj\Debug\AlgoritmalarVizeOncesiCalisma.exe
+C:\Users\Laz\source\repos\AlgoritmalarVizeOncesiCalisma\AlgoritmalarVizeOncesiCalisma\obj\Debug\AlgoritmalarVizeOncesiCalisma.pdb

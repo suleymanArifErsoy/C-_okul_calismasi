@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\obj\Debug\BirMetindeHarfSayısıBulma.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\obj\Debug\BirMetindeHarfSayısıBulma.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\bin\Debug\BirMetindeHarfSayısıBulma.exe.config
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\bin\Debug\BirMetindeHarfSayısıBulma.exe
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\bin\Debug\BirMetindeHarfSayısıBulma.pdb
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\obj\Debug\BirMetindeHarfSayısıBulma.exe
+C:\Users\Laz\source\repos\BirMetindeHarfSayısıBulma\BirMetindeHarfSayısıBulma\obj\Debug\BirMetindeHarfSayısıBulma.pdb

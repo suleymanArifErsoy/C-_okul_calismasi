@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\agaclar\agaclar\bin\Debug\agaclar.exe.config
+C:\Users\Laz\source\repos\agaclar\agaclar\bin\Debug\agaclar.exe
+C:\Users\Laz\source\repos\agaclar\agaclar\bin\Debug\agaclar.pdb
+C:\Users\Laz\source\repos\agaclar\agaclar\obj\Debug\agaclar.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\agaclar\agaclar\obj\Debug\agaclar.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\agaclar\agaclar\obj\Debug\agaclar.exe
+C:\Users\Laz\source\repos\agaclar\agaclar\obj\Debug\agaclar.pdb

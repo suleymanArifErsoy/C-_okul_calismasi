@@ -1,0 +1,6 @@
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\bin\Debug\Bolum sonu odevi.exe.config
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\bin\Debug\Bolum sonu odevi.exe
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\bin\Debug\Bolum sonu odevi.pdb
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\obj\Debug\Bolum sonu odevi.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\obj\Debug\Bolum sonu odevi.exe
+C:\Users\Laz\source\repos\Sınıflar\Bolum sonu odevi\obj\Debug\Bolum sonu odevi.pdb

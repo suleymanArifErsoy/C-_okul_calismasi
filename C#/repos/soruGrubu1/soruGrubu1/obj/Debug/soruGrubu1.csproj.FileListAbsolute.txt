@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\bin\Debug\soruGrubu1.exe.config
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\bin\Debug\soruGrubu1.exe
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\bin\Debug\soruGrubu1.pdb
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\obj\Debug\soruGrubu1.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\obj\Debug\soruGrubu1.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\obj\Debug\soruGrubu1.exe
+C:\Users\Laz\source\repos\soruGrubu1\soruGrubu1\obj\Debug\soruGrubu1.pdb

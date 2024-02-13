@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\bin\Debug\yapısalProgramlaDers2.exe.config
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\bin\Debug\yapısalProgramlaDers2.exe
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\bin\Debug\yapısalProgramlaDers2.pdb
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\obj\Debug\yapısalProgramlaDers2.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\obj\Debug\yapısalProgramlaDers2.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\obj\Debug\yapısalProgramlaDers2.exe
+C:\Users\Laz\source\repos\yapısalProgramlaDers2\yapısalProgramlaDers2\obj\Debug\yapısalProgramlaDers2.pdb

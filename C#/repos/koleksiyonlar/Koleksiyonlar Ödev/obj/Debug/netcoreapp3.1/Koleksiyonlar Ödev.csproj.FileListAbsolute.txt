@@ -1,0 +1,13 @@
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.AssemblyInfoInputs.cache
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.AssemblyInfo.cs
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.exe
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.deps.json
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.runtimeconfig.json
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.runtimeconfig.dev.json
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.dll
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\bin\Debug\netcoreapp3.1\Koleksiyonlar Ödev.pdb
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.dll
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.pdb
+C:\Users\Laz\source\repos\koleksiyonlar\Koleksiyonlar Ödev\obj\Debug\netcoreapp3.1\Koleksiyonlar Ödev.genruntimeconfig.cache

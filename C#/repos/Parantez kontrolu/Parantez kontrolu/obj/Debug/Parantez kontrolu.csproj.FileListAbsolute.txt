@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\bin\Debug\Parantez kontrolu.exe.config
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\bin\Debug\Parantez kontrolu.exe
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\bin\Debug\Parantez kontrolu.pdb
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\obj\Debug\Parantez kontrolu.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\obj\Debug\Parantez kontrolu.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\obj\Debug\Parantez kontrolu.exe
+C:\Users\Laz\source\repos\Parantez kontrolu\Parantez kontrolu\obj\Debug\Parantez kontrolu.pdb

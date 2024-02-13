@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\bin\Debug\Algoritmalar_Bitwise.exe.config
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\bin\Debug\Algoritmalar_Bitwise.exe
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\bin\Debug\Algoritmalar_Bitwise.pdb
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\obj\Debug\Algoritmalar_Bitwise.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\obj\Debug\Algoritmalar_Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\obj\Debug\Algoritmalar_Bitwise.exe
+C:\Users\Laz\source\repos\Algoritmalar_Bitwise\Algoritmalar_Bitwise\obj\Debug\Algoritmalar_Bitwise.pdb

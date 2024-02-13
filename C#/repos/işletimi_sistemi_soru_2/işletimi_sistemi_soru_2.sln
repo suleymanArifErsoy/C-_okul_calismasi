@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "işletimi_sistemi_soru_2", "işletimi_sistemi_soru_2\işletimi_sistemi_soru_2.csproj", "{CC70B360-F382-49EC-84D2-03C3A7030C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC70B360-F382-49EC-84D2-03C3A7030C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC70B360-F382-49EC-84D2-03C3A7030C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC70B360-F382-49EC-84D2-03C3A7030C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC70B360-F382-49EC-84D2-03C3A7030C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A747D6-3B9B-45A6-BDAA-0A9C165AB548}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe.config
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.pdb
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.exe
+C:\Users\Laz\source\repos\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.pdb

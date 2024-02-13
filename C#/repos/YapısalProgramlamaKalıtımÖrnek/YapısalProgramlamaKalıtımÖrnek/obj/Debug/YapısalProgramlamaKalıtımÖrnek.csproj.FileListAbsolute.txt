@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\bin\Debug\YapısalProgramlamaKalıtımÖrnek.exe.config
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\bin\Debug\YapısalProgramlamaKalıtımÖrnek.exe
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\bin\Debug\YapısalProgramlamaKalıtımÖrnek.pdb
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\obj\Debug\YapısalProgramlamaKalıtımÖrnek.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\obj\Debug\YapısalProgramlamaKalıtımÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\obj\Debug\YapısalProgramlamaKalıtımÖrnek.exe
+C:\Users\Laz\source\repos\YapısalProgramlamaKalıtımÖrnek\YapısalProgramlamaKalıtımÖrnek\obj\Debug\YapısalProgramlamaKalıtımÖrnek.pdb

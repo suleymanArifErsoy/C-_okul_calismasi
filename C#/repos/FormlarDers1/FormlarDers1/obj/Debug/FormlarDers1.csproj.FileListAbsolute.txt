@@ -1,0 +1,10 @@
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\bin\Debug\FormlarDers1.exe.config
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\bin\Debug\FormlarDers1.exe
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\bin\Debug\FormlarDers1.pdb
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.csprojAssemblyReference.cache
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.Form1.resources
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.Properties.Resources.resources
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.csproj.GenerateResource.cache
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.exe
+C:\Users\Laz\source\repos\FormlarDers1\FormlarDers1\obj\Debug\FormlarDers1.pdb

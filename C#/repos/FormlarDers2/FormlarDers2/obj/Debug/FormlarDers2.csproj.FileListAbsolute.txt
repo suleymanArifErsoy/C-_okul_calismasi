@@ -1,0 +1,4 @@
+C:\Users\Laz\source\repos\FormlarDers2\FormlarDers2\obj\Debug\FormlarDers2.sinemaOtomasyon.resources
+C:\Users\Laz\source\repos\FormlarDers2\FormlarDers2\obj\Debug\FormlarDers2.Properties.Resources.resources
+C:\Users\Laz\source\repos\FormlarDers2\FormlarDers2\obj\Debug\FormlarDers2.csproj.GenerateResource.cache
+C:\Users\Laz\source\repos\FormlarDers2\FormlarDers2\obj\Debug\FormlarDers2.csproj.CoreCompileInputs.cache

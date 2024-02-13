@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\bin\Debug\KapsullemeGetSetKavrami.exe.config
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\bin\Debug\KapsullemeGetSetKavrami.exe
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\bin\Debug\KapsullemeGetSetKavrami.pdb
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\obj\Debug\KapsullemeGetSetKavrami.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\obj\Debug\KapsullemeGetSetKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\obj\Debug\KapsullemeGetSetKavrami.exe
+C:\Users\Laz\source\repos\KapsullemeGetSetKavrami\KapsullemeGetSetKavrami\obj\Debug\KapsullemeGetSetKavrami.pdb

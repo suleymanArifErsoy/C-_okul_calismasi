@@ -1,0 +1,10 @@
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\bin\Debug\Exception(HataYönetimi)Form.exe.config
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\bin\Debug\Exception(HataYönetimi)Form.exe
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\bin\Debug\Exception(HataYönetimi)Form.pdb
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception(HataYönetimi)Form.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception_HataYönetimi_Form.Form1.resources
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception_HataYönetimi_Form.Properties.Resources.resources
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception(HataYönetimi)Form.csproj.GenerateResource.cache
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception(HataYönetimi)Form.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception(HataYönetimi)Form.exe
+C:\Users\Laz\source\repos\Exception(HataYönetimi)Form\Exception(HataYönetimi)Form\obj\Debug\Exception(HataYönetimi)Form.pdb

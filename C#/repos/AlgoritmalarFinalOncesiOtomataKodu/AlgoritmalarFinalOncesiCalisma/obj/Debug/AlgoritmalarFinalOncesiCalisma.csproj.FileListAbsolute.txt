@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\bin\Debug\AlgoritmalarFinalOncesiCalisma.exe.config
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\bin\Debug\AlgoritmalarFinalOncesiCalisma.exe
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\bin\Debug\AlgoritmalarFinalOncesiCalisma.pdb
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\obj\Debug\AlgoritmalarFinalOncesiCalisma.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\obj\Debug\AlgoritmalarFinalOncesiCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\obj\Debug\AlgoritmalarFinalOncesiCalisma.exe
+C:\Users\Laz\source\repos\AlgoritmalarFinalOncesiCalisma\AlgoritmalarFinalOncesiCalisma\obj\Debug\AlgoritmalarFinalOncesiCalisma.pdb

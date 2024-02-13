@@ -1,0 +1,7 @@
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\bin\Debug\Isletim_Sistemi_Thread_Mutex.exe.config
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\bin\Debug\Isletim_Sistemi_Thread_Mutex.exe
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\bin\Debug\Isletim_Sistemi_Thread_Mutex.pdb
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\obj\Debug\Isletim_Sistemi_Thread_Mutex.csproj.AssemblyReference.cache
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\obj\Debug\Isletim_Sistemi_Thread_Mutex.csproj.CoreCompileInputs.cache
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\obj\Debug\Isletim_Sistemi_Thread_Mutex.exe
+C:\Users\Laz\source\repos\Isletim_Sistemi_Thread_Mutex\Isletim_Sistemi_Thread_Mutex\obj\Debug\Isletim_Sistemi_Thread_Mutex.pdb
